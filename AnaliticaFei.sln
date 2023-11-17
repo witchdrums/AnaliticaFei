@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaliticaFei", "AnaliticaFei\AnaliticaFei.csproj", "{EE219119-27CD-49CE-AB7E-45E7C8849968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE219119-27CD-49CE-AB7E-45E7C8849968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE219119-27CD-49CE-AB7E-45E7C8849968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE219119-27CD-49CE-AB7E-45E7C8849968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE219119-27CD-49CE-AB7E-45E7C8849968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFFF2C3-0472-42CC-B9F7-B55B15E054EA}
+	EndGlobalSection
+EndGlobal
